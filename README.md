@@ -1,11 +1,13 @@
 This repository contains the custom <a href="https://app.diagrams.net" target="_blank">Draw.io (diagrams.net)</a> theme that is created according to the <a href="https://www.uu.nl/en/organisation/corporate-identity" target="_blank">UU Corporate Identity specification</a>.
 In order to apply the custom theme:
 1. Top menu -> Extras -> Configuration.
-2. Copy/Paste the text provided below (or content of the <a href="https://github.com/UtrechtUniversity/corporate-identity-theme-draw.io/blob/main/UU-CorporateIdentify-Theme-DrawIO.json" target="_blank">UU CorporateIdentify DrawIO Theme</a> file).
+2. Copy/Paste the text provided below (or content of the <a href="https://github.com/UtrechtUniversity/corporate-identity-theme-draw.io/blob/main/Utrecht%20University-Corporate%20Identity-Theme-DrawIO.json" target="_blank">Utrecht University-Corporate Identity-Theme-DrawIO</a> file).
 3. Restart the application.
 
 <img src="https://github.com/UtrechtUniversity/corporate-identity-theme-draw.io/blob/main/Steps.png" height="600">
 
+
+https://github.com/UtrechtUniversity/corporate-identity-theme-draw.io/blob/main/Utrecht%20University-Corporate%20Identity-Theme-DrawIO.json
 
 ```json
 {
